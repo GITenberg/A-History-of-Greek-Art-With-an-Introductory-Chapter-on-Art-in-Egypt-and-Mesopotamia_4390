@@ -1,0 +1,26 @@
+_repo: A-History-of-Greek-Art-With-an-Introductory-Chapter-on-Art-in-Egypt-and-Mesopotamia_4390
+creator:
+  author:
+    agent_name: Tarbell, F. B. (Frank Bigelow)
+    alias: Tarbell, Frank Bigelow
+    birthdate: 1853
+    deathdate: 1920
+    gutenberg_agent_id: '1478'
+    url: http://www.gutenberg.org/2009/agents/1478
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Bigelow_Tarbell
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art, Greek -- History'
+title: "A History of Greek Art\r\nWith an Introductory Chapter on Art in Egypt and\
+  \ Mesopotamia"
+url: http://www.gutenberg.org/ebooks/4390
