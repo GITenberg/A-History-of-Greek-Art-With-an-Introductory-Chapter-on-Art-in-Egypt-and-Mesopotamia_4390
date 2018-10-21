@@ -1,5 +1,5 @@
 _repo: A-History-of-Greek-Art-With-an-Introductory-Chapter-on-Art-in-Egypt-and-Mesopotamia_4390
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'N'
 - !lcsh 'Art, Greek -- History'
+- GITenberg
 title: "A History of Greek Art\r\nWith an Introductory Chapter on Art in Egypt and\
   \ Mesopotamia"
 url: http://www.gutenberg.org/ebooks/4390
